@@ -44,12 +44,6 @@ analise-ecommerce-python/
 └── images/            # Visualizacoes exportadas
 ```
 
-## Principais Insights
-
-*(A ser preenchido apos conclusao das analises)*
-
-## Autora
-
 **Juliana Olivatti**
 - LinkedIn: [linkedin.com/in/juliana-olivatti](https://www.linkedin.com/in/juliana-olivatti/)
 - GitHub: [github.com/JulianaOlivatti](https://github.com/JulianaOlivatti)
