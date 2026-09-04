@@ -49,5 +49,3 @@ analise-ecommerce-python/
 - GitHub: [github.com/JulianaOlivatti](https://github.com/JulianaOlivatti)
 
 ---
-
-*Projeto desenvolvido como parte do portfolio profissional para transicao de carreira para a area de Dados.*
